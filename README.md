@@ -32,6 +32,9 @@ You'll follow a structured data analysis flow in Power BI, starting with data ch
 
 The Databel dataset consists of 29 columns, including customer demographics, churn labels, and financial metrics such as total charges. Each row represents a unique customer, and you'll be analyzing a snapshot of the database at a specific moment in time.
 
+[Metadata - Case Study: Analyzing Customer Churn in Power BI (PDF)](https://github.com/TPrasad98/Case-Study-Analyzing-Customer-Churn-in-Power-BI/blob/main/Metadata%20-%20Case%20Study_Analyzing%20Customer%20Churn%20in%20Power%20BI.pdf)
+
+
 ## Getting Started
 
 To get started with the case study:
