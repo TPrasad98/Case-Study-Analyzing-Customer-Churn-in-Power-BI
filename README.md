@@ -21,7 +21,8 @@ Churn, also known as the rate of attrition or customer churn, refers to the rate
 
 ![Churn Definition](https://github.com/TPrasad98/Case-Study-Analyzing-Customer-Churn-in-Power-BI/blob/main/churn_definition.png)
 
-![Churn Calculation](https://github.com/TPrasad98/Case-Study-Analyzing-Customer-Churn-in-Power-BI/blob/main/churn_calculation.png)
+
+![Churn Calculation](https://github.com/TPrasad98/Case-Study-Analyzing-Customer-Churn-in-Power-BI/blob/main/churn_calcualtion.png)
 
 
 ## Data Analysis Flow
