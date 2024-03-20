@@ -45,10 +45,6 @@ To get started with the case study:
 3. Follow the instructions provided in the case study videos to analyze customer churn using Power BI.
 4. Refer to the transcription file for additional guidance and context.
 
-## Acknowledgments
-
-Special thanks to DataCamp for providing the case study materials and resources.
-
 
 
 ## Overview
@@ -63,6 +59,13 @@ After analyzing the churn dataset provided by Databel, we gained several insight
 - The churn rate for Databel is approximately 27%.
 - Around 45% of churn reasons are related to competitors.
 - The churn rate varies significantly across different states, with California (CA) exhibiting a churn rate exceeding 60%.
+
+
+
+![Overview](https://github.com/TPrasad98/Case-Study-Analyzing-Customer-Churn-in-Power-BI/blob/main/overview.png)
+
+![Churn Category](https://github.com/TPrasad98/Case-Study-Analyzing-Customer-Churn-in-Power-BI/blob/main/churn_category.png)
+
 
 ### Churn Rate by Age
 - Senior citizens have a churn rate 10% higher than the average (38.22%).
