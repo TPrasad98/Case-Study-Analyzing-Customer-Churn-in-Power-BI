@@ -12,9 +12,16 @@ In this case study, you'll learn about the data analysis flow in Power BI, compr
 
 Customer churn is a significant issue for many companies. In this case study, you'll use a churn dataset from Databel to analyze why customers are leaving the telecom provider. As a consultant hired for the task, your goal is to identify patterns and insights that can help reduce churn rates and improve customer retention strategies.
 
+![Problem Statement](https://github.com/TPrasad98/Case-Study-Analyzing-Customer-Churn-in-Power-BI/blob/main/problem_statement.png)
+
+
 ## Understanding Churn
 
 Churn, also known as the rate of attrition or customer churn, refers to the rate at which customers stop doing business with an entity. It's crucial to understand churn because losing existing customers can impact revenue growth significantly. By calculating churn rates and analyzing churn patterns, companies can take proactive measures to retain customers and sustain business growth.
+
+![Churn Definition](https://github.com/TPrasad98/Case-Study-Analyzing-Customer-Churn-in-Power-BI/blob/main/problem_statement.png)
+
+![Churn Calculation](https://github.com/TPrasad98/Case-Study-Analyzing-Customer-Churn-in-Power-BI/blob/main/problem_statement.png)
 
 ## Data Analysis Flow
 
