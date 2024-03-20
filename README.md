@@ -19,9 +19,10 @@ Customer churn is a significant issue for many companies. In this case study, yo
 
 Churn, also known as the rate of attrition or customer churn, refers to the rate at which customers stop doing business with an entity. It's crucial to understand churn because losing existing customers can impact revenue growth significantly. By calculating churn rates and analyzing churn patterns, companies can take proactive measures to retain customers and sustain business growth.
 
-![Churn Definition](https://github.com/TPrasad98/Case-Study-Analyzing-Customer-Churn-in-Power-BI/blob/main/problem_statement.png)
+![Churn Definition](https://github.com/TPrasad98/Case-Study-Analyzing-Customer-Churn-in-Power-BI/blob/main/churn_definition.png)
 
-![Churn Calculation](https://github.com/TPrasad98/Case-Study-Analyzing-Customer-Churn-in-Power-BI/blob/main/problem_statement.png)
+![Churn Calculation](https://github.com/TPrasad98/Case-Study-Analyzing-Customer-Churn-in-Power-BI/blob/main/churn_calculation.png)
+
 
 ## Data Analysis Flow
 
