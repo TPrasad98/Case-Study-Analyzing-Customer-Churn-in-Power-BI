@@ -71,6 +71,9 @@ After analyzing the churn dataset provided by Databel, we gained several insight
 - Senior citizens have a churn rate 10% higher than the average (38.22%).
 - The churn rate generally increases across age brackets.
 
+![Customer Age Churn Rate](https://github.com/TPrasad98/Case-Study-Analyzing-Customer-Churn-in-Power-BI/blob/main/customer_age_churnrate.png)
+![Customers in Group Churn Rate](https://github.com/TPrasad98/Case-Study-Analyzing-Customer-Churn-in-Power-BI/blob/main/customers_in_group_churn_rate.png)
+
 ### Churn Rate by Contract
 - Contracts with 6 customers in a group have the lowest churn rate at 23%.
 - Customers with monthly-based contracts churn more compared to those with yearly-based contracts.
